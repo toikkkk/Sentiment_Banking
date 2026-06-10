@@ -1,6 +1,4 @@
-# ==================================
 # Python
-# ==================================
 __pycache__/
 *.py[cod]
 *$py.class
@@ -9,64 +7,31 @@ __pycache__/
 *.egg-info/
 dist/
 build/
-*.egg
 
-# ==================================
-# Virtual Environment (JANGAN DI-PUSH)
-# ==================================
+# Virtual Environment
 venv/
 venv311/
 env/
 ENV/
 .venv
 
-# ==================================
-# IDE & Editor
-# ==================================
+# IDE
 .vscode/
 .idea/
 *.swp
 *.swo
-*~
 
-# ==================================
-# Jupyter Notebook
-# ==================================
-.ipynb_checkpoints/
-*.ipynb
-
-# ==================================
-# OS Files
-# ==================================
-.DS_Store
-Thumbs.db
-desktop.ini
-
-# ==================================
-# Logs & Temporary
-# ==================================
-logs/
-*.log
-.DS_Store
-
-# ==================================
 # Model Files (TERLALU BESAR untuk GitHub)
-# GitHub limit: 100MB per file
-# Model IndoBERT biasanya 400MB+
-# ==================================
 models/
 *.bin
 *.pt
 *.pth
 *.safetensors
 
-# ==================================
-# Data Files (jika terlalu besar)
-# ==================================
-# data/raw/*.csv
-# data/processed/*.csv
+# Logs
+logs/
+*.log
 
-# ==================================
-# Reports (opsional - bisa di-push jika kecil)
-# ==================================
-# reports/*.png
+# OS
+.DS_Store
+Thumbs.db
