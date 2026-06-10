@@ -7,3 +7,9 @@ matplotlib>=3.7.0
 seaborn>=0.12.0
 datasets>=2.14.0
 accelerate>=0.20.0
+streamlit
+pandas
+numpy
+plotly
+torch
+transformers
