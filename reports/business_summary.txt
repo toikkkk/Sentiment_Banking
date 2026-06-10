@@ -1,0 +1,70 @@
+
+=================================================================
+BUSINESS INSIGHT REPORT - M-BANKING SENTIMENT ANALYSIS
+Generated: 2026-03-01 15:52:45
+=================================================================
+
+EXECUTIVE SUMMARY
+-----------------
+Total Reviews Analyzed: 20,674
+Average Score: 3.22 ⭐
+Positive Sentiment: 52.0%
+Negative Sentiment: 48.0%
+Neutral Sentiment: 0.0%
+
+BANK PERFORMANCE RANKING
+------------------------
+             Avg Score  % Positive  Total Reviews
+sumber_bank                                      
+BRI               3.78       67.54           6802
+BNI               3.59       62.38           5386
+BCA               2.53       32.84           8486
+
+TOP COMPLAINT CATEGORIES
+------------------------
+topic
+Login/Verifikasi    2217
+Transaksi Gagal     1831
+Saldo Terpotong     1702
+Keamanan/Data       1285
+Update Aplikasi     1187
+
+PRIORITY DISTRIBUTION
+---------------------
+priority_flag
+LOW       10741
+HIGH       5487
+MEDIUM     4446
+
+CONFIDENCE METRICS
+------------------
+Average Confidence: 0.849
+Very High Confidence: 11950 reviews
+High Confidence: 3253 reviews
+
+RECOMMENDATIONS PER BANK
+------------------------
+
+BCA:
+  - Positive Sentiment: 32.8%
+  - Average Score: 2.53 ⭐
+  - Top Complaint: Saldo Terpotong (1091 cases)
+  - High Priority Issues: 3408
+  - Recommended Action: Focus on saldo terpotong improvement
+  - Target: Increase positive sentiment by addressing top complaints
+
+BRI:
+  - Positive Sentiment: 67.5%
+  - Average Score: 3.78 ⭐
+  - Top Complaint: Login/Verifikasi (751 cases)
+  - High Priority Issues: 984
+  - Recommended Action: Focus on login/verifikasi improvement
+  - Target: Increase positive sentiment by addressing top complaints
+
+BNI:
+  - Positive Sentiment: 62.4%
+  - Average Score: 3.59 ⭐
+  - Top Complaint: Transaksi Gagal (461 cases)
+  - High Priority Issues: 1095
+  - Recommended Action: Focus on transaksi gagal improvement
+  - Target: Increase positive sentiment by addressing top complaints

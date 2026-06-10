@@ -1,0 +1,37 @@
+bank,topic,count
+BCA,Login/Verifikasi,1024
+BCA,Transaksi Gagal,980
+BCA,Layar Putih/Blank,6
+BCA,Aplikasi Lemot,618
+BCA,Saldo Terpotong,1091
+BCA,QRIS,579
+BCA,Notifikasi,275
+BCA,Update Aplikasi,654
+BCA,Customer Service,261
+BCA,Mutasi/Riwayat,232
+BCA,Keamanan/Data,874
+BCA,Biaya Admin,198
+BRI,Login/Verifikasi,751
+BRI,Transaksi Gagal,390
+BRI,Layar Putih/Blank,315
+BRI,Aplikasi Lemot,78
+BRI,Saldo Terpotong,308
+BRI,QRIS,35
+BRI,Notifikasi,58
+BRI,Update Aplikasi,424
+BRI,Customer Service,91
+BRI,Mutasi/Riwayat,45
+BRI,Keamanan/Data,223
+BRI,Biaya Admin,69
+BNI,Login/Verifikasi,442
+BNI,Transaksi Gagal,461
+BNI,Layar Putih/Blank,2
+BNI,Aplikasi Lemot,129
+BNI,Saldo Terpotong,303
+BNI,QRIS,90
+BNI,Notifikasi,64
+BNI,Update Aplikasi,109
+BNI,Customer Service,78
+BNI,Mutasi/Riwayat,44
+BNI,Keamanan/Data,188
+BNI,Biaya Admin,53
